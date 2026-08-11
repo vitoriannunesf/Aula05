@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mango, maça, banana
+=======
+Melancia - Morango - Banana
+>>>>>>> e80e4b2c3c71f2c40136a44a990eb28404d78e80
